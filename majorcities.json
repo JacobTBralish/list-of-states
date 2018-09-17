@@ -1,730 +1,728 @@
-{
-    "Alabama": {
-        "cities": [{
-        "Mobile": {
-            "latitude": "30.6953657",
-            "longitude": "-88.0398912"
-        },
+[{
+    "states": {
+        "Alabama": {
+            "cities": [{
+                "Mobile": {
+                    "latitude": "30.6953657",
+                    "longitude": "-88.0398912"
+                },
 
-        "Montgomery": {
-            "latitude": "32.3668052",
-            "longitude": "-86.2999689"
-        },
+                "Montgomery": {
+                    "latitude": "32.3668052",
+                    "longitude": "-86.2999689"
+                },
 
-        "Huntsville": {
-            "latitude": "34.7303688",
-            "longitude": "-86.5861037"
-        }
-    }]},
-    "Alaska": {
-        "cities":[{
-        "Anchorage": {
-            "latitude": "61.2180556",
-            "longitude": "-149.9002778"
-        }
-    }]},
-    "Arizona": {
-        "cities":[{
-        "Tucson": {
-            "latitude": "32.222038",
-            "longitude": "-110.891948"
-        },
+                "Huntsville": {
+                    "latitude": "34.7303688",
+                    "longitude": "-86.5861037"
+            }
+        }]},
+        "Alaska": {
+            "cities":[{
+                "Anchorage": {
+                    "latitude": "61.2180556",
+                    "longitude": "-149.9002778"
+            }
+        }]},
+        "Arizona": {
+            "cities":[{
+                "Tucson": {
+                    "latitude": "32.222038",
+                    "longitude": "-110.891948"
+            },
 
-        "Phoenix": {
-            "latitude": "33.514361",
-            "longitude": "-112.060774"
-        },
+            "Phoenix": {
+                "latitude": "33.514361",
+                "longitude": "-112.060774"
+            },
 
-        "Tuba City": {
-            "latitude": "36.128740",
-            "longitude": "-111.241466"
-        }
+            "Tuba City": {
+                "latitude": "36.128740",
+                "longitude": "-111.241466"
+            }
 
-    }]},
-    "Arkansas": {
-        "cities":[{
-        "Pine Bluff": {
-            "latitude": "34.2284312",
-            "longitude": "-92.00319549999999"
-        },
+        }]},
+        "Arkansas": {
+            "cities":[{
+                "Pine Bluff": {
+                    "latitude": "34.2284312",
+                    "longitude": "-92.00319549999999"
+                },
 
-        "Little Rock": {
-            "latitude": "34.7464809",
-            "longitude": "-92.28959479999999"
-        }
-    }]},
-    "California": {
-        "cities":[{
-        "Redding": {
-            "latitude": "",
-            "longitude": ""
-        },
+                "Little Rock": {
+                    "latitude": "34.7464809",
+                    "longitude": "-92.28959479999999"
+                }
+        }]},
+        "California": {
+            "cities":[{
+                "Redding": {
+                    "latitude": "",
+                    "longitude": ""
+                },
 
-        "Sacramento": {
-            "latitude": "38.5815719",
-            "longitude": "-121.4943996"
-        },
+                "Sacramento": {
+                    "latitude": "38.5815719",
+                    "longitude": "-121.4943996"
+                },
 
-        "San Diego": {
-            "latitude": "32.715738",
-            "longitude": "-117.1610838"
-        },
+                "San Diego": {
+                    "latitude": "32.715738",
+                    "longitude": "-117.1610838"
+                },
 
-        "Los Angeles": {
-            "latitude": "34.0522342",
-            "longitude": "-118.2436849"
-        }
-    }]},
-    "Colorado": {
-        "cities":[{
-        "Denver": {
-            "latitude": "39.7392358",
-            "longitude": "-104.990251"
-        },
+                "Los Angeles": {
+                    "latitude": "34.0522342",
+                    "longitude": "-118.2436849"
+                }
+        }]},
+        "Colorado": {
+            "cities":[{
+                "Denver": {
+                    "latitude": "39.7392358",
+                    "longitude": "-104.990251"
+                },
 
-        "Pueblo": {
-            "latitude": "38.2544472",
-            "longitude": "-104.6091409"
-        },
+                "Pueblo": {
+                    "latitude": "38.2544472",
+                    "longitude": "-104.6091409"
+                },
 
-        "Telluride": {
-            "latitude": "37.939410",
-            "longitude": "-107.814921"
-        },
+                "Telluride": {
+                    "latitude": "37.939410",
+                    "longitude": "-107.814921"
+                },
 
-        "Glenwood Springs": {
-            "latitude": "39.550556",
-            "longitude": "-107.327883"
-        }
-    }]},
-    "Connecticut": {
-        "cities":[{
-        "Hartford": {
-            "latitude": "41.76371109999999",
-            "longitude": "-72.6850932"
-        },
+                "Glenwood Springs": {
+                    "latitude": "39.550556",
+                    "longitude": "-107.327883"
+                }
+        }]},
+        "Connecticut": {
+            "cities":[{
+                "Hartford": {
+                    "latitude": "41.76371109999999",
+                    "longitude": "-72.6850932"
+                },
 
-        "New Haven": {
-            "latitude": "41.308274",
-            "longitude": "-72.9278835"
-        }
-    }]},
-    "Delaware": {
-        "cities":[{
-        "Dover": {
-            "latitude": "39.158168",
-            "longitude": "-75.5243682"
-        }
-    }]},
-    "Florida": {
-        "cities":[{
-        "Tallahassee": {
-            "latitude": "30.4382559",
-            "longitude": "-84.28073289999999"
-        },
+                "New Haven": {
+                    "latitude": "41.308274",
+                    "longitude": "-72.9278835"
+                }
+        }]},
+        "Delaware": {
+            "cities":[{
+                "Dover": {
+                    "latitude": "39.158168",
+                    "longitude": "-75.5243682"
+                }
+        }]},
+        "Florida": {
+            "cities":[{
+                "Tallahassee": {
+                    "latitude": "30.4382559",
+                    "longitude": "-84.28073289999999"
+                },
 
-        "Orlando": {
-            "latitude": "28.5383355",
-            "longitude": "-81.3792365"
-        },
+                "Orlando": {
+                    "latitude": "28.5383355",
+                    "longitude": "-81.3792365"
+                },
 
-        "Miami": {
-            "latitude": "25.7616798",
-            "longitude": "-80.1917902"
-        }
-    }]},
-    "Georgia": {
-        "cities":[{
-        "Savannah": {
-            "latitude": "32.0835407",
-            "longitude": "-81.09983419999999"
-        },
+                "Miami": {
+                    "latitude": "25.7616798",
+                    "longitude": "-80.1917902"
+                }
+        }]},
+        "Georgia": {
+            "cities":[{
+                "Savannah": {
+                    "latitude": "32.0835407",
+                    "longitude": "-81.09983419999999"
+                },
 
-        "Atlanta": {
-            "latitude": "33.7489954",
-            "longitude": "-84.3879824"
-        },
+                "Atlanta": {
+                    "latitude": "33.7489954",
+                    "longitude": "-84.3879824"
+                },
 
-        "Albany": {
-            "latitude": "31.5785074",
-            "longitude": "84.15574099999999"
-        }
-    }]},
-    "Hawaii": {
-        "cities":[{
-        "Honolulu": {
-            "latitude": "21.3069444",
-            "longitude": "-157.8583333"
-        }
-    }]},
-    "Idaho": {
-        "cities":[{
-        "Boise City": {
-            "latitude": "43.6187102",
-            "longitude": "-116.2146068"
-        },
+                "Albany": {
+                    "latitude": "31.5785074",
+                    "longitude": "84.15574099999999"
+                }
+        }]},
+        "Hawaii": {
+            "cities":[{
+                "Honolulu": {
+                    "latitude": "21.3069444",
+                    "longitude": "-157.8583333"
+                }
+        }]},
+        "Idaho": {
+            "cities":[{
+                "Boise City": {
+                    "latitude": "43.6187102",
+                    "longitude": "-116.2146068"
+                },
 
-        "Idaho Falls": {
-            "latitude": "43.49165139999999",
-            "longitude": "-112.0339645"
-        },
+                "Idaho Falls": {
+                    "latitude": "43.49165139999999",
+                    "longitude": "-112.0339645"
+                },
 
-        "Coeur d'Alene": {
-            "latitude": "35.2827524",
-            "longitude": "-120.6596156"
-        }
-    }]},
-    "Illinois": {
-        "cities":[{
-        "Chicago": {
-            "latitude": "41.8781136",
-            "longitude": "-87.6297982"
-        },
+                "Coeur d'Alene": {
+                    "latitude": "35.2827524",
+                    "longitude": "-120.6596156"
+                }
+        }]},
+        "Illinois": {
+            "cities":[{
+                "Chicago": {
+                    "latitude": "41.8781136",
+                    "longitude": "-87.6297982"
+                },
 
-        "Springfield": {
-            "latitude": "39.78172130000001",
-            "longitude": "-89.6501481"
-        }
-    }]},
-    "Indiana": {
-        "cities":[{
-        "Indianapolis": {
-            "latitude": "39.768403",
-            "longitude": "-86.158068"
-        },
+                "Springfield": {
+                    "latitude": "39.78172130000001",
+                    "longitude": "-89.6501481"
+                }
+        }]},
+        "Indiana": {
+            "cities":[{
+                "Indianapolis": {
+                    "latitude": "39.768403",
+                    "longitude": "-86.158068"
+                },
 
-        "Evansville": {
-            "latitude": "37.9715592",
-            "longitude": "-87.5710898"
-        }
-    }]},
-    "Iowa": {
-        "cities":[{
-        "Des Moines": {
-            "latitude": "41.6005448",
-            "longitude": "-93.6091064"
-        },
+                "Evansville": {
+                    "latitude": "37.9715592",
+                    "longitude": "-87.5710898"
+                }
+        }]},
+        "Iowa": {
+            "cities":[{
+                "Des Moines": {
+                    "latitude": "41.6005448",
+                    "longitude": "-93.6091064"
+                },
 
-        "Cedar Rapids": {
-            "latitude": "41.9778795",
-            "longitude": "-91.6656232"
-        }
-    }]},
-    "Kansas": {
-        "cities":[{
-        "Wichita": {
-            "latitude": "37.688889",
-            "longitude": "-97.336111"
-        }
-    }]},
-    "Kentucky": {
-        "cities":[{
-        "Louisville": {
-            "latitude": "38.2526647",
-            "longitude": "-85.7584557"
-        },
+                "Cedar Rapids": {
+                    "latitude": "41.9778795",
+                    "longitude": "-91.6656232"
+                }
+        }]},
+        "Kansas": {
+            "cities":[{
+                "Wichita": {
+                    "latitude": "37.688889",
+                    "longitude": "-97.336111"
+                }
+        }]},
+        "Kentucky": {
+            "cities":[{
+                "Louisville": {
+                    "latitude": "38.2526647",
+                    "longitude": "-85.7584557"
+                },
 
-        "Lexington": {
-            "latitude": "38.0405837",
-            "longitude": "-84.5037164"
-        },
+                "Lexington": {
+                    "latitude": "38.0405837",
+                    "longitude": "-84.5037164"
+                },
 
-        "Evansville": {
-            "latitude": "37.991812",
-            "longitude": "-87.539572"
-        }
-    }]},
-    "Louisiana": {
-        "cities":[{
-        "New Orleans": {
-            "latitude": "29.95106579",
-            "longitude": "-90.07153"
-        },
+                "Evansville": {
+                    "latitude": "37.991812",
+                    "longitude": "-87.539572"
+                }
+        }]},
+        "Louisiana": {
+            "cities":[{
+                "New Orleans": {
+                    "latitude": "29.95106579",
+                    "longitude": "-90.07153"
+                },
 
-        "Alexandria": {
-            "latitude": "31.3112936",
-            "longitude": "-92.4451371"
-        },
+                "Alexandria": {
+                    "latitude": "31.3112936",
+                    "longitude": "-92.4451371"
+                },
 
-        "Shreveport": {
-            "latitude": "32.5251516",
-            "longitude": "-93.750178"
-        }
-    }]},
-    "Maine": {
-        "cities":[{
-        "Portland": {
-            "latitude": "43.66147100",
-            "longitude": "-70.2553259"
-        },
+                "Shreveport": {
+                    "latitude": "32.5251516",
+                    "longitude": "-93.750178"
+                }
+        }]},
+        "Maine": {
+            "cities":[{
+                "Portland": {
+                    "latitude": "43.66147100",
+                    "longitude": "-70.2553259"
+                },
 
-        "Greenville": {
-            "latitude": "45.459171",
-            "longitude": "-69.592251"
-        },
+                "Greenville": {
+                    "latitude": "45.459171",
+                    "longitude": "-69.592251"
+                },
 
-        "Caribou": {
-            "latitude": "46.864538",
-            "longitude": "-68.000930"
-        }
-    }]},
-    "Maryland": {
-        "cities":[{
-        "Baltimore": {
-            "latitude": "39.2903848",
-            "longitude": "-76.6121893"
-        }
-    }]},
-    "Massachusetts": {
-        "cities":[{
-        "Boston": {
-            "latitude": "42.3600825",
-            "longitude": "-71.0588801"
-        }
-    }]},
-    "Michigan": {
-        "cities":[{
-        "Grand Rapids": {
-            "latitude": "42.9633599",
-            "longitude": "-85.6680863"
-        },
+                "Caribou": {
+                    "latitude": "46.864538",
+                    "longitude": "-68.000930"
+                }
+        }]},
+        "Maryland": {
+            "cities":[{
+                "Baltimore": {
+                    "latitude": "39.2903848",
+                    "longitude": "-76.6121893"
+                }
+        }]},
+        "Massachusetts": {
+            "cities":[{
+                "Boston": {
+                    "latitude": "42.3600825",
+                    "longitude": "-71.0588801"
+                }
+        }]},
+        "Michigan": {
+            "cities":[{
+                "Grand Rapids": {
+                    "latitude": "42.9633599",
+                    "longitude": "-85.6680863"
+                },
 
-        "Detroit": {
-            "latitude": "42.331427",
-            "longitude": "-83.0457538"
-        },
+                "Detroit": {
+                    "latitude": "42.331427",
+                    "longitude": "-83.0457538"
+                },
 
-        "Gaylord": {
-            "latitude": "45.027307,",
-            "longitude": "-84.687664"
-        }
-    }]},
-    "Minnesota": {
-        "cities":[{
-        "Minneapolis": {
-            "latitude": "44.977753",
-            "longitude": "-93.2650108"
-        },
+                "Gaylord": {
+                    "latitude": "45.027307,",
+                    "longitude": "-84.687664"
+                }
+        }]},
+        "Minnesota": {
+            "cities":[{
+                "Minneapolis": {
+                    "latitude": "44.977753",
+                    "longitude": "-93.2650108"
+                },
 
-        "Duluth": {
-            "latitude": "46.786671899",
-            "longitude": "-92.1004852"
-        },
+                "Duluth": {
+                    "latitude": "46.786671899",
+                    "longitude": "-92.1004852"
+                },
 
-        "Bemidji": {
-            "latitude": "47.464931",
-            "longitude": "-94.874944"
-        }
-    }]},
-    "Mississippi": {
-        "cities":[{
-        "Jackson": {
-            "latitude": "32.2987573",
-            "longitude": "-90.1848103"
-        },
+                "Bemidji": {
+                    "latitude": "47.464931",
+                    "longitude": "-94.874944"
+                }
+        }]},
+        "Mississippi": {
+            "cities":[{
+                "Jackson": {
+                    "latitude": "32.2987573",
+                    "longitude": "-90.1848103"
+                },
 
-        "Biloxi": {
-            "latitude": "30.3960318",
-            "longitude": "-88.8853077999"
-        }
-    }]},
-    "Missouri": {
-        "cities":[{
-        "St. Louis": {
-            "latitude": "38.622460",
-            "longitude": "-90.201962"
-        },
+                "Biloxi": {
+                    "latitude": "30.3960318",
+                    "longitude": "-88.8853077999"
+                }
+        }]},
+        "Missouri": {
+            "cities":[{
+                "St. Louis": {
+                    "latitude": "38.622460",
+                    "longitude": "-90.201962"
+                },
 
-        "Kansas City": {
-            "latitude": "39.0997265",
-            "longitude": "-94.5785667"
-        },
+                "Kansas City": {
+                    "latitude": "39.0997265",
+                    "longitude": "-94.5785667"
+                },
 
-        "Springfield": {
-            "latitude": "37.2089572",
-            "longitude": "-93.292298899"
-        },
+                "Springfield": {
+                    "latitude": "37.2089572",
+                    "longitude": "-93.292298899"
+                },
 
-        "Poplar Bluff": {
-            "latitude": "36.758618",
-            "longitude": "-90.407635"
-        }
-    }]},
-    "Montana": {
-        "cities":[{
-        "Billings": {
-            "latitude": "45.7832856",
-            "longitude": "-108.5006904"
-        },
+                "Poplar Bluff": {
+                    "latitude": "36.758618",
+                    "longitude": "-90.407635"
+                }
+        }]},
+        "Montana": {
+            "cities":[{
+                "Billings": {
+                    "latitude": "45.7832856",
+                    "longitude": "-108.5006904"
+                },
 
-        "Kalispell": {
-            "latitude": "48.209149",
-            "longitude": "-114.329398"
-        },
+                "Kalispell": {
+                    "latitude": "48.209149",
+                    "longitude": "-114.329398"
+                },
 
-        "Helena": {
-            "latitude": "46.601843",
-            "longitude": "-112.024616"
-        }
-    }]},
-    "Nebraska": {
-        "cities":[{
-        "Omaha": {
-            "latitude": "41.2523634",
-            "longitude": "-95.997988299"
-        },
+                "Helena": {
+                    "latitude": "46.601843",
+                    "longitude": "-112.024616"
+                }
+        }]},
+        "Nebraska": {
+            "cities":[{
+                "Omaha": {
+                    "latitude": "41.2523634",
+                    "longitude": "-95.997988299"
+                },
 
-        "Grand Island": {
-            "latitude": "40.9263957",
-            "longitude": "-98.3420118"
-        }
-    }]},
-    "Nevada": {
-        "cities":[{
-        "Las Vegas": {
-            "latitude": "36.1699412",
-            "longitude": "-115.1398296"
-        },
+                "Grand Island": {
+                    "latitude": "40.9263957",
+                    "longitude": "-98.3420118"
+                }
+        }]},
+        "Nevada": {
+            "cities":[{
+                "Las Vegas": {
+                    "latitude": "36.1699412",
+                    "longitude": "-115.1398296"
+                },
 
-        "Carvers": {
-            "latitude": "38.783959",
-            "longitude": "-117.169048"
-        },
+                "Carvers": {
+                    "latitude": "38.783959",
+                    "longitude": "-117.169048"
+                },
 
-        "Winnemucca": {
-            "latitude": "40.975469",
-            "longitude": "-117.738918"
-        }
-    }]},
-    "New Hampshire": {
-        "cities":[{
-        "Manchester": {
-            "latitude": "42.9956397",
-            "longitude": "-71.4547891"
-        },
+                "Winnemucca": {
+                    "latitude": "40.975469",
+                    "longitude": "-117.738918"
+                }
+        }]},
+        "New Hampshire": {
+            "cities":[{
+                "Manchester": {
+                    "latitude": "42.9956397",
+                    "longitude": "-71.4547891"
+                },
 
-        "Bartlett": {
-            "latitude": "44.075010",
-            "longitude": "-71.236502"
-        }
-    }]},
-    "New Jersey": {
-        "cities":[{
-        "Atlantic City": {
-            "latitude": "39.3642834",
-            "longitude": "-74.4229266"
-        }
-    }]},
-    "New Mexico": {
-        "cities":[{
-        "Santa Fe": {
-            "latitude": "35.6869752",
-            "longitude": "-105.937799"
-        },
+                "Bartlett": {
+                    "latitude": "44.075010",
+                    "longitude": "-71.236502"
+                }
+        }]},
+        "New Jersey": {
+            "cities":[{
+                "Atlantic City": {
+                    "latitude": "39.3642834",
+                    "longitude": "-74.4229266"
+                }
+        }]},
+        "New Mexico": {
+            "cities":[{
+                "Santa Fe": {
+                    "latitude": "35.6869752",
+                    "longitude": "-105.937799"
+                },
 
-        "Albuquerque": {
-            "latitude": "35.0853336",
-            "longitude": "-106.6055534"
-        },
+                "Albuquerque": {
+                    "latitude": "35.0853336",
+                    "longitude": "-106.6055534"
+                },
 
-        "Silver City": {
-            "latitude": "32.774527",
-            "longitude": "-108.277185"
-        }
-    }]},
-    "New York": {
-        "cities":[{
+                "Silver City": {
+                    "latitude": "32.774527",
+                    "longitude": "-108.277185"
+                }
+        }]},
         "New York": {
-            "latitude": "40.7127837",
-            "longitude": "-74.0059413"
-        },
+            "cities":[{
+                "New York": {
+                    "latitude": "40.7127837",
+                    "longitude": "-74.0059413"
+                },
 
-        "Albany": {
-            "latitude": "42.6525793",
-            "longitude": "-73.7562317"
-        },
+                "Albany": {
+                    "latitude": "42.6525793",
+                    "longitude": "-73.7562317"
+                },
 
-        "Syracuse": {
-            "latitude": "43.0481221",
-            "longitude": "-76.147424399"
-        }
-    }]},
-    "North Carolina": {
-        "cities":[{
-        "Charlotte": {
-            "latitude": "35.2270869",
-            "longitude": "-80.8431267"
-        },
+                "Syracuse": {
+                    "latitude": "43.0481221",
+                    "longitude": "-76.147424399"
+                }
+        }]},
+        "North Carolina": {
+            "cities":[{
+                "Charlotte": {
+                    "latitude": "35.2270869",
+                    "longitude": "-80.8431267"
+                },
 
-        "Wilmington": {
-            "latitude": "34.2257255",
-            "longitude": "-77.9447102"
-        },
+                "Wilmington": {
+                    "latitude": "34.2257255",
+                    "longitude": "-77.9447102"
+                },
 
-        "Raleigh": {
-            "latitude": "35.7795897",
-            "longitude": "-78.6381787"
-        }
-    }]},
-    "North Dakota": {
-        "cities":[{
-        "Grand Forks": {
-            "latitude": "47.9252568",
-            "longitude": "-97.0328547"
-        },
+                "Raleigh": {
+                    "latitude": "35.7795897",
+                    "longitude": "-78.6381787"
+                }
+        }]},
+        "North Dakota": {
+            "cities":[{
+                "Grand Forks": {
+                    "latitude": "47.9252568",
+                    "longitude": "-97.0328547"
+                },
 
-        "Bismarck": {
-            "latitude": "46.8083268",
-            "longitude": "-100.7837392"
-        }
-    }]},
-    "Ohio": {
-        "cities":[{
-        "Cleveland": {
-            "latitude": "41.49932",
-            "longitude": "-81.6943605"
-        },
+                "Bismarck": {
+                    "latitude": "46.8083268",
+                    "longitude": "-100.7837392"
+                }
+        }]},
+        "Ohio": {
+            "cities":[{
+                "Cleveland": {
+                    "latitude": "41.49932",
+                    "longitude": "-81.6943605"
+                },
 
-        "Columbus": {
-            "latitude": "39.9611755",
-            "longitude": "-82.998794199"
-        }
-    }]},
-    "Oklahoma": {
-        "cities":[{
-        "Oklahoma City": {
-            "latitude": "35.4675602",
-            "longitude": "-97.5164276"
-        },
+                "Columbus": {
+                    "latitude": "39.9611755",
+                    "longitude": "-82.998794199"
+                }
+        }]},
+        "Oklahoma": {
+            "cities":[{
+                "Oklahoma City": {
+                    "latitude": "35.4675602",
+                    "longitude": "-97.5164276"
+                },
 
-        "Tulsa": {
-            "latitude": "36.1539816",
-            "longitude": "-95.9927750"
-        }
-    }]},
-    "Oregon": {
-        "cities":[{
-        "Portland": {
-            "latitude": "45.5230622",
-            "longitude": "-122.6764816"
-        },
+                "Tulsa": {
+                    "latitude": "36.1539816",
+                    "longitude": "-95.9927750"
+                }
+        }]},
+        "Oregon": {
+            "cities":[{
+                "Portland": {
+                    "latitude": "45.5230622",
+                    "longitude": "-122.6764816"
+                },
 
-        "Bend": {
-            "latitude": "44.0581728",
-            "longitude": "-121.3153096"
-        },
+                "Bend": {
+                    "latitude": "44.0581728",
+                    "longitude": "-121.3153096"
+                },
 
-        "Canyon City": {
-            "latitude": "44.392518",
-            "longitude": "-118.949573"
-        }
-    }]},
-    "Pennsylvania": {
-        "cities":[{
-        "Philadelphia": {
-            "latitude": "39.9525839",
-            "longitude": "-75.1652215"
-        },
+                "Canyon City": {
+                    "latitude": "44.392518",
+                    "longitude": "-118.949573"
+                }
+        }]},
+        "Pennsylvania": {
+            "cities":[{
+                "Philadelphia": {
+                    "latitude": "39.9525839",
+                    "longitude": "-75.1652215"
+                },
 
-        "Pittsburgh": {
-            "latitude": "40.44062479999",
-            "longitude": "-79.9958864"
-        },
+                "Pittsburgh": {
+                    "latitude": "40.44062479999",
+                    "longitude": "-79.9958864"
+                },
 
-        "Scranton": {
-            "latitude": "41.408969",
-            "longitude": "-75.6624121999"
-        },
+                "Scranton": {
+                    "latitude": "41.408969",
+                    "longitude": "-75.6624121999"
+                },
 
-        "St. Marys": {
-            "latitude": "41.428166",
-            "longitude": "-78.551595"
-        }
-    }]},
-    "Rhode Island": {
-        "cities":[{
-        "Providence": {
-            "latitude": "41.8239891",
-            "longitude": "-71.4128343"
-        }
-    }]},
-    "South Carolina": {
-        "cities":[{
-        "Charleston": {
-            "latitude": "32.7764749",
-            "longitude": "-79.9310512000"
-        },
+                "St. Marys": {
+                    "latitude": "41.428166",
+                    "longitude": "-78.551595"
+                }
+        }]},
+        "Rhode Island": {
+            "cities":[{
+                "Providence": {
+                    "latitude": "41.8239891",
+                    "longitude": "-71.4128343"
+                }
+            }]},
+            "South Carolina": {
+                "cities":[{
+                "Charleston": {
+                    "latitude": "32.7764749",
+                    "longitude": "-79.9310512000"
+                },
 
-        "Augusta": {
-            "latitude": "33.465900",
-            "longitude": "-82.009766"
-        }
-    }]},
-    "South Dakota": {
-        "cities":[{
-        "Sioux Falls": {
-            "latitude": "43.5445959",
-            "longitude": "-96.731103400"
-        },
+                "Augusta": {
+                    "latitude": "33.465900",
+                    "longitude": "-82.009766"
+                }
+        }]},
+        "South Dakota": {
+            "cities":[{
+                "Sioux Falls": {
+                    "latitude": "43.5445959",
+                    "longitude": "-96.731103400"
+                },
 
-        "Rapid City": {
-            "latitude": "44.0805434",
-            "longitude": "-103.2310149"
-        },
+                "Rapid City": {
+                    "latitude": "44.0805434",
+                    "longitude": "-103.2310149"
+                },
 
-        "Fort Thompson": {
-            "latitude": "44.060939",
-            "longitude": "-99.430916"
-        }
-    }]},
-    "Tennessee": {
-        "cities":[{
-        "Nashville": {
-            "latitude": "36.1626638",
-            "longitude": "-86.7816016"
-        },
+                "Fort Thompson": {
+                    "latitude": "44.060939",
+                    "longitude": "-99.430916"
+                }
+        }]},
+        "Tennessee": {
+            "cities":[{
+                "Nashville": {
+                    "latitude": "36.1626638",
+                    "longitude": "-86.7816016"
+                },
 
-        "Memphis": {
-            "latitude": "35.1495343",
-            "longitude": "-90.0489801"
-        },
+                "Memphis": {
+                    "latitude": "35.1495343",
+                    "longitude": "-90.0489801"
+                },
 
-        "Knoxville": {
-            "latitude": "35.9606384",
-            "longitude": "-83.9207392"
-        }
-    }]},
-    "Texas": {
-        "cities":[{
-        "Houston": {
-            "latitude": "29.7604267",
-            "longitude": "-95.3698028"
-        },
+                "Knoxville": {
+                    "latitude": "35.9606384",
+                    "longitude": "-83.9207392"
+                }
+        }]},
+        "Texas": {
+            "cities":[{
+                "Houston": {
+                    "latitude": "29.7604267",
+                    "longitude": "-95.3698028"
+                },
 
-        "Lubbock": {
-            "latitude": "33.5778631",
-            "longitude": "-101.8551665"
-        },
+                "Lubbock": {
+                    "latitude": "33.5778631",
+                    "longitude": "-101.8551665"
+                },
 
-        "El Paso": {
-            "latitude": "31.7775757",
-            "longitude": "-106.4424559"
-        },
+                "El Paso": {
+                    "latitude": "31.7775757",
+                    "longitude": "-106.4424559"
+                },
 
-        "Austin": {
-            "latitude": "30.267153",
-            "longitude": "-97.7430608"
-        },
+                "Austin": {
+                    "latitude": "30.267153",
+                    "longitude": "-97.7430608"
+                },
 
-        "Dallas": {
-            "latitude": "32.7766642",
-            "longitude": "-96.79698789"
-        }
-    }]},
-    "Utah": {
-        "cities":[{
-        "Salt Lake City": {
-            "latitude": "40.7607793",
-            "longitude": "-111.8910474"
-        },
+                "Dallas": {
+                    "latitude": "32.7766642",
+                    "longitude": "-96.79698789"
+                }
+        }]},
+        "Utah": {
+            "cities":[{
+                "Salt Lake City": {
+                    "latitude": "40.7607793",
+                    "longitude": "-111.8910474"
+                },
 
-        "Beaver": {
-            "latitude": "38.279980",
-            "longitude": "-112.641890"
-        },
+                "Beaver": {
+                    "latitude": "38.279980",
+                    "longitude": "-112.641890"
+                },
 
-        "Moab": {
-            "latitude": "38.573120",
-            "longitude": "-109.550904"
-        }
-    }]},
-    "Vermont": {
-        "cities":[{
-        "Burlington": {
-            "latitude": "44.4758825",
-            "longitude": "-73.212071999"
-        }
-    }]},
-    "Virginia": {
-        "cities":[{
-        "Richmond": {
-            "latitude": "37.5407246",
-            "longitude": "-77.4360481"
-        },
+                "Moab": {
+                    "latitude": "38.573120",
+                    "longitude": "-109.550904"
+                }
+        }]},
+        "Vermont": {
+            "cities":[{
+                "Burlington": {
+                    "latitude": "44.4758825",
+                    "longitude": "-73.212071999"
+                }
+        }]},
+        "Virginia": {
+            "cities":[{
+                "Richmond": {
+                    "latitude": "37.5407246",
+                    "longitude": "-77.4360481"
+                },
 
-        "Charlottesville": {
-            "latitude": "38.0293059",
-            "longitude": "-78.476678100"
-        },
+                "Charlottesville": {
+                    "latitude": "38.0293059",
+                    "longitude": "-78.476678100"
+                },
 
-        "Roanoke": {
-            "latitude": "37.2709704",
-            "longitude": "-79.9414266"
-        }
-    }]},
-    "Washington": {
-        "cities":[{
-        "Seattle": {
-            "latitude": "47.6062095",
-            "longitude": "-122.3320708"
-        },
+                "Roanoke": {
+                    "latitude": "37.2709704",
+                    "longitude": "-79.9414266"
+                }
+        }]},
+        "Washington": {
+            "cities":[{
+                "Seattle": {
+                    "latitude": "47.6062095",
+                    "longitude": "-122.3320708"
+                },
 
-        "Spokane": {
-            "latitude": "47.6587802",
-            "longitude": "-117.4260466"
-        },
+                "Spokane": {
+                    "latitude": "47.6587802",
+                    "longitude": "-117.4260466"
+                },
 
-        "Yakima": {
-            "latitude": "46.6020711",
-            "longitude": "-120.5058987"
-        }
+                "Yakima": {
+                    "latitude": "46.6020711",
+                    "longitude": "-120.5058987"
+                }
+        }]},
+        "West Virginia": {
+            "cities":[{
+                "Huntington": {
+                    "latitude": "38.4192496",
+                    "longitude": "-82.44515400"
+                },
 
-    }]},
-    "West Virginia": {
-        "cities":[{
-        "Huntington": {
-            "latitude": "38.4192496",
-            "longitude": "-82.44515400"
-        },
+                "Morgantown": {
+                    "latitude": "39.629135",
+                    "longitude": "-79.957029"
+                }
+        }]},
+        "Wisconsin": {
+            "cities":[{
+                "Green Bay": {
+                    "latitude": "44.5191589999",
+                    "longitude": "-88.019826"
+                },
 
-        "Morgantown": {
-            "latitude": "39.629135",
-            "longitude": "-79.957029"
-        }
+                "Milwaukee": {
+                    "latitude": "43.0389025",
+                    "longitude": "-87.9064736"
+                }
+        }]},
+        "Wyoming": {
+            "cities":[{
+                "Casper": {
+                    "latitude": "42.866632",
+                    "longitude": "-106.313081"
+                },
 
-    }]},
-    "Wisconsin": {
-        "cities":[{
-        "Green Bay": {
-            "latitude": "44.5191589999",
-            "longitude": "-88.019826"
-        },
+                "Cheyenne": {
+                    "latitude": "41.1399814",
+                    "longitude": "-104.8202462"
+                },
 
-        "Milwaukee": {
-            "latitude": "43.0389025",
-            "longitude": "-87.9064736"
-        }
-
-    }]},
-    "Wyoming": {
-        "cities":[{
-        "Casper": {
-            "latitude": "42.866632",
-            "longitude": "-106.313081"
-        },
-
-        "Cheyenne": {
-            "latitude": "41.1399814",
-            "longitude": "-104.8202462"
-        },
-
-        "Canyon Village": {
-            "latitude": "44.734161",
-            "longitude": "-110.490526"
-        }
-
-    }]}
-}
+                "Canyon Village": {
+                    "latitude": "44.734161",
+                    "longitude": "-110.490526"
+                }
+        }]}
+    }
+}]
 
 
 
