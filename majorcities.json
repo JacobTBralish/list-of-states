@@ -1,5 +1,4 @@
-[
-    {
+{
     "Alabama": {
         "cities": [{
         "Mobile": {
@@ -726,23 +725,6 @@
 
     }]}
 }
-]
-
-
-
-
-[
-    {
-        "Alabama": {
-            "cities": [{
-                "Montgomery": {
-                    "latitiude": 12345,
-                    "longitude": 1234567
-                }
-            ]
-        }
-    }
-]
 
 
 
